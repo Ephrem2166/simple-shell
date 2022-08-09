@@ -1,4 +1,4 @@
-#Simple Shell
+# Simple Shell
 - A repo for a simple-shell project for ALX-program.
 ## Description
 - The simple shell program will have the following functionalities.
