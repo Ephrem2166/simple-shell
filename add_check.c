@@ -94,3 +94,4 @@ int checkEnv(char *str)
 	free(cpy);
 	return (0);
 }
+
