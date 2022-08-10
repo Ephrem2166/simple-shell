@@ -10,6 +10,7 @@ char **tokenize(char *str, int builtIn)
 {
 	char *token = NULL, **array = NULL, *test = NULL;
 	int size = 0, n = 0;
+
 	struct stat st = {0};
 
 	size = args(str);
