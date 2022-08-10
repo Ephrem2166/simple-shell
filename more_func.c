@@ -5,7 +5,7 @@
  */
 void sig_handler(__attribute__((unused))int signo)
 {
-	write(STDOUT_FILEN, "\n$", 4);
+	write(STDOUT_FILENO, "\n$", 4);
 }
 /**
  * args - Counts all the possibles arguments of a function
